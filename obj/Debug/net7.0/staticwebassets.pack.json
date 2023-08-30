@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/caesarrex/Projects/TaurusFinance/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.TaurusFinance.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.TaurusFinance.props",
+      "PackagePath": "build\\TaurusFinance.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TaurusFinance.props",
+      "PackagePath": "buildMultiTargeting\\TaurusFinance.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TaurusFinance.props",
+      "PackagePath": "buildTransitive\\TaurusFinance.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
